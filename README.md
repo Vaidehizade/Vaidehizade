@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2ot/giphy.gif" width="200" height="100" alt="Code animation" />
+  <img src="https://i.giphy.com/xTiTnKvyl8FyG4eYqc.gif" width="200" height="100" alt="Code animation" />
 </div>
 
 ---
