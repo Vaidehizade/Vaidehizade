@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/xTiTnKvyl8FyG4eYqc.gif" width="200" height="100" alt="Code animation" />
+  <img src="coding_women.gif" width="200" height="100" alt="Code animation" />
 </div>
 
 ---
