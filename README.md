@@ -33,7 +33,7 @@ I'm a **Software Engineer with 2.5+ years** of experience building scalable appl
 
 When I'm not debugging code or architecting microservices, you'll find me **dancing 💃**, discovering new music 🎵, or exploring AI-driven automation! I believe in clean code, continuous learning, and shipping things that matter.
 
-**Currently:** Building amazing things at **Siemens** on **Teamcenter PLM**  
+**Currently:** Building microservices based features at **Siemens** on **Teamcenter PLM**  
 **Exploring:** AI workflows with MCP and agentic systems  
 **Let's talk about:** Open-source projects, cloud infrastructure, or your favorite music! 🎧
 
