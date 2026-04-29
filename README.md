@@ -1,6 +1,6 @@
 <!-- Developer GIF Header -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687atE/giphy.gif" width="400" height="300" alt="Developer coding" />
+  <img src="coding_women.gif" width="400" height="300" alt="Developer coding" />
 </div>
 
 <h1 align="center">
@@ -19,10 +19,6 @@
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vaidehizade)
   [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vaidehi_zz/)
   
-</div>
-
-<div align="center">
-  <img src="coding_women.gif" width="200" height="100" alt="Code animation" />
 </div>
 
 ---
